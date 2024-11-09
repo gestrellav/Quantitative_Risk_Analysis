@@ -1,4 +1,5 @@
-# Quantitative Risk Analysis
+# Analisis Cuantitativo de Riesgo
 ***
-1. Medicion de Riesgos  
-1.1. Máximo Drawdown 
+En esta seccion abordaremos las principales medidas de riesgo y como implementarlas en Python.
+1. Desviacion Estandar
+2. Desviacion Estandar Movil
